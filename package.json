@@ -1,0 +1,27 @@
+{
+  "name": "mysql-geometry",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "author": "",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "bluebird": "^3.3.4",
+    "co": "^4.6.0",
+    "eventproxy": "^0.3.4",
+    "lodash": "^4.7.0",
+    "mysql": "~2.10.2",
+    "string-template": "^1.0.0"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "chai-http": "^2.0.1",
+    "eslint": "^2.6.0",
+    "eslint-config-airbnb": "^6.2.0",
+    "eslint-plugin-react": "^4.2.3",
+    "mocha": "^2.4.5"
+  }
+}
